@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304613041122",
+    "project_id": "xray-body-scanner-girl-cam-set",
+    "storage_bucket": "xray-body-scanner-girl-cam-set.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304613041122:android:39621f0e8c471a73c58fbb",
+        "android_client_info": {
+          "package_name": "com.doyanngentup.smgkisobldsplbgtzamn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304613041122-em1goa2iapo2mv0946fb4ufg2ftnrfld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA6CBBHl-5ZGtObfyQPWvluqUPvdxqFnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304613041122-em1goa2iapo2mv0946fb4ufg2ftnrfld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
